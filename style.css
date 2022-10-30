@@ -46,16 +46,10 @@ body{
     background-image: url(./Volver.png);
 
 }
-.volver_boton a {    
-    width: 50px;
-    height: 50px;
-    color:var(--color);
-}
-.volver_boton a i{    
-    width: 50px;
-    height: 50px;
-    color:var(--color)    
-}    
+
+.volver_img { 
+    width: 50px 
+} 
 
 .show{
     z-index: 17;
